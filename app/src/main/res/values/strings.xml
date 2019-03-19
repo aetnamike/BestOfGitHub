@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BestOfGitHub</string>
+
+    <string name="input_hint">Enter organization name...</string>
+    <string name="search_button">Search</string>
+    <string name="top">Top %1$d Repos for %2$s</string>
+    <string name="stars">%1$d Stars</string>
+</resources>
